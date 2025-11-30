@@ -12,7 +12,7 @@ layers:
   - I
   - O
   - P
-  - BKSP
+  - BACKSPACE
   - {t: ESC, h: BT}
   - A
   - S
@@ -23,7 +23,7 @@ layers:
   - J
   - K
   - L
-  - SEMI
+  - MINUS
   - SQT
   - LSHFT
   - Z
