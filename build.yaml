@@ -70,3 +70,7 @@ include:
   - board: seeeduino_xiao_ble
     shield: MKB_R_Base
     snippet: zmk-usb-logging
+
+  - board: seeeduino_xiao_ble
+    shield: MKB_L_Base
+    snippet: zmk-usb-logging
